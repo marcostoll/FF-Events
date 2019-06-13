@@ -6,7 +6,7 @@ by Marco Stoll
 - <marco.stoll@rocketmail.com>
 - <http://marcostoll.de>
 - <https://github.com/marcostoll>
-- <https://github.com/marcostoll/FF-Common>
+- <https://github.com/marcostoll/FF-Events>
 ------------------------------------------------------------------------------------------------------------------------
 
 # What is the Fast Forward Components Collection?
